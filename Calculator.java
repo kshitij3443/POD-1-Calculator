@@ -1,9 +1,10 @@
 public class Calculator{
-
+    //function for addition..
     public static int add(int a, int b){
         return a+b;
     }
 
+    //function for subtraction..
     public static int subtract(int a, int b){
         return a-b;
     }
